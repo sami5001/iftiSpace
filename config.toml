@@ -1,0 +1,89 @@
+baseurl = "https://ifti.space"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+publishDir = "docs"
+
+rssLimit  = 50  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+
+# googleAnalytics = ""
+# disqusShortname = ""
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "Hassan Saad Ifti"
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Metadata mostly used in document's head
+  description = "IFTI.space"
+  keywords = "aerospace, fluid dynamics, machine learning, artificial intelligence, science, informatics, development, programming"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  homeSubtitle = "DPhil Candidate at the University of Oxford, United Kingdom"
+
+[languages]
+  [languages.en]
+    title = "Hassan Saad Ifti"
+    subtitle = "DPhil Candidate at the University of Oxford, United Kingdom"
+    keywords = "aerospace, fluid dynamics, machine learning, artificial intelligence, science, informatics, development, programming"
+    copyright = ""
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "IFTI.space"
+      logoHomeLink = "/"
+      logoColor = "#67a2c9"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
+    # Social icons
+    [[params.social]]
+      name = "twitter"
+      url  = "https://twitter.com/saadifti/"
+
+    [[params.social]]
+      name = "email"
+      url  = "mailto:hsaadifti@gmail.com"
+
+    [[params.social]]
+      name = "github"
+      url  = "https://github.com/sami5001/"
+
+  [menu]
+    [[menu.main]]
+          identifier = "about"
+          name       = "About"
+          url        = "about/"
+    [[menu.main]]
+          identifier = "posts"
+          name       = "Posts"
+          url        = "posts/"

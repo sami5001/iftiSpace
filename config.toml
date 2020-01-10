@@ -53,19 +53,45 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     [languages.en.params.logo]
       logoText = "IFTI.space"
       logoHomeLink = "/"
-      logoColor = "#67a2c9"
+      logoColor = "#0dff00"
     # or
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
+
+[menu]
+  [[menu.main]]
+    identifier = "bio"
+    name       = "Bio"
+    url        = "bio/"
+  [[menu.main]]
+    identifier = "cv"
+    name       = "CV"
+    url        = "cv/"
+  [[menu.main]]
+    identifier = "publications"
+    name       = "Publications"
+    url        = "publications/"
+  [[menu.main]]
+    identifier = "research"
+    name       = "Research"
+    url        = "research/"
+  [[menu.main]]
+    identifier = "media"
+    name       = "Media/Press"
+    url        = "media/"
   [[menu.main]]
     identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+    name       = "Notes"
+    url        = "posts/"
 
     # Social icons
+    [[params.social]]
+      name = "facebook"
+      url  = "https://www.facebook.com/iSaad/"
+
     [[params.social]]
       name = "twitter"
       url  = "https://twitter.com/saadifti/"
@@ -77,13 +103,3 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     [[params.social]]
       name = "github"
       url  = "https://github.com/sami5001/"
-
-  [menu]
-    [[menu.main]]
-          identifier = "about"
-          name       = "About"
-          url        = "about/"
-    [[menu.main]]
-          identifier = "posts"
-          name       = "Posts"
-          url        = "posts/"

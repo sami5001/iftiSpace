@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bangladesh on Hassan Saad Ifti</title>
+    <link>https://ifti.space/tags/bangladesh/</link>
+    <description>Recent content in Bangladesh on Hassan Saad Ifti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Sep 2018 14:40:55 +0100</lastBuildDate>
+    
+	<atom:link href="https://ifti.space/tags/bangladesh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>10 Min School Interview</title>
+      <link>https://ifti.space/media/10-min-school-interview/</link>
+      <pubDate>Fri, 14 Sep 2018 14:40:55 +0100</pubDate>
+      
+      <guid>https://ifti.space/media/10-min-school-interview/</guid>
+      <description>Interview at 10 Minute School Dhaka Bangladesh   </description>
+    </item>
+    
+  </channel>
+</rss>

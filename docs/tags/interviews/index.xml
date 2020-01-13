@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>In the Media on Hassan Saad Ifti</title>
-    <link>https://ifti.space/media/</link>
-    <description>Recent content in In the Media on Hassan Saad Ifti</description>
+    <title>interviews on Hassan Saad Ifti</title>
+    <link>https://ifti.space/tags/interviews/</link>
+    <description>Recent content in interviews on Hassan Saad Ifti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2020 11:20:10 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 14:40:55 +0100</lastBuildDate>
     
-	<atom:link href="https://ifti.space/media/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ifti.space/tags/interviews/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>https://ifti.space/media/the-talking-point/</guid>
       <description>London, United Kingdom This was my first time being LIVE on tv. Thanks to Prof Ahmed for the invitation and Alam Uncle for arranging it. I&#39;m by no means anyone of that stature. I&#39;ve really received unprecedented respect from the Bengali community in the UK.
 I took this opportunity to talk about the importance of girls in STEM.</description>
-    </item>
-    
-    <item>
-      <title>AIAA SPACE 2018</title>
-      <link>https://ifti.space/media/aiaa-space2018/</link>
-      <pubDate>Tue, 18 Sep 2018 14:40:55 +0100</pubDate>
-      
-      <guid>https://ifti.space/media/aiaa-space2018/</guid>
-      <description>AIAA SPACE 2018, ORLANDO, FL, USA OTI’s Hassan Saad Ifti presented his paper on “flow characterisation of porous UHTCs (Ultra-High-Temperature-Ceramics) for transpiration cooling of hypersonic vehicles” at the ’22nd AIAA International Space Planes and Hypersonic Systems and Technologies Conference’ within the AIAA SPACE Forum 2018.
-Read more&amp;hellip;</description>
     </item>
     
     <item>

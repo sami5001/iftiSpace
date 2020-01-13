@@ -40,7 +40,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
-  homeSubtitle = "DPhil Candidate at the University of Oxford, United Kingdom"
+  #homeSubtitle = "DPhil Candidate at the University of Oxford, United Kingdom"
 
 [languages]
   [languages.en]
@@ -56,7 +56,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
       logoColor = "#0dff00"
     # or
     #
-    # path = "/img/your-example-logo.svg"
+    # path = "IFTI_logo.png"
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
@@ -97,9 +97,13 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
       url  = "https://twitter.com/saadifti/"
 
     [[params.social]]
-      name = "email"
-      url  = "mailto:hsaadifti@gmail.com"
+      name = "instagram"
+      url  = "https://www.instagram.com/aeronaut_saad/"
 
-    [[params.social]]
-      name = "github"
-      url  = "https://github.com/sami5001/"
+      [[params.social]]
+        name = "email"
+        url  = "mailto:hsaadifti@gmail.com"
+
+      [[params.social]]
+        name = "github"
+        url  = "https://github.com/sami5001/"

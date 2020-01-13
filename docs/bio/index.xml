@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biography on Hassan Saad Ifti</title>
-    <link>https://sami5001.github.io/iftiSpace/bio/</link>
+    <link>https://ifti.space/bio/</link>
     <description>Recent content in Biography on Hassan Saad Ifti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jan 2020 11:20:10 +0100</lastBuildDate>
     
-	<atom:link href="https://sami5001.github.io/iftiSpace/bio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ifti.space/bio/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

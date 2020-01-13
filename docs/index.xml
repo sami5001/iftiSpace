@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hassan Saad Ifti</title>
-    <link>https://sami5001.github.io/iftiSpace/</link>
+    <link>https://ifti.space/</link>
     <description>Recent content on Hassan Saad Ifti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jan 2020 14:56:02 +0100</lastBuildDate>
     
-	<atom:link href="https://sami5001.github.io/iftiSpace/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ifti.space/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hypersonics</title>
-      <link>https://sami5001.github.io/iftiSpace/research/hypersonics/</link>
+      <link>https://ifti.space/research/hypersonics/</link>
       <pubDate>Fri, 10 Jan 2020 14:56:02 +0100</pubDate>
       
-      <guid>https://sami5001.github.io/iftiSpace/research/hypersonics/</guid>
+      <guid>https://ifti.space/research/hypersonics/</guid>
       <description>Details about my hypersonics research to be updated here.</description>
     </item>
     
     <item>
       <title>Shock/Boundary-Layer Interaction (SBLI)</title>
-      <link>https://sami5001.github.io/iftiSpace/research/sbli/</link>
+      <link>https://ifti.space/research/sbli/</link>
       <pubDate>Fri, 10 Jan 2020 14:50:02 +0100</pubDate>
       
-      <guid>https://sami5001.github.io/iftiSpace/research/sbli/</guid>
+      <guid>https://ifti.space/research/sbli/</guid>
       <description>Details about my SHOCK/BOUNDARY-LAYER INTERACTION (SBLI) research to be updated here.</description>
     </item>
     
     <item>
       <title>Transpiration Cooling</title>
-      <link>https://sami5001.github.io/iftiSpace/research/transpiration-cooling/</link>
+      <link>https://ifti.space/research/transpiration-cooling/</link>
       <pubDate>Fri, 10 Jan 2020 14:50:02 +0100</pubDate>
       
-      <guid>https://sami5001.github.io/iftiSpace/research/transpiration-cooling/</guid>
+      <guid>https://ifti.space/research/transpiration-cooling/</guid>
       <description>Details about my transpiration cooling research to be updated here.</description>
     </item>
     
     <item>
       <title>10 Min School Interview</title>
-      <link>https://sami5001.github.io/iftiSpace/media/10-min-school-interview/</link>
+      <link>https://ifti.space/media/10-min-school-interview/</link>
       <pubDate>Fri, 10 Jan 2020 14:40:55 +0100</pubDate>
       
-      <guid>https://sami5001.github.io/iftiSpace/media/10-min-school-interview/</guid>
+      <guid>https://ifti.space/media/10-min-school-interview/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Welcome to my new blog</title>
-      <link>https://sami5001.github.io/iftiSpace/posts/2020/01/welcome-to-my-new-blog/</link>
+      <link>https://ifti.space/posts/2020/01/welcome-to-my-new-blog/</link>
       <pubDate>Fri, 10 Jan 2020 11:20:34 +0100</pubDate>
       
-      <guid>https://sami5001.github.io/iftiSpace/posts/2020/01/welcome-to-my-new-blog/</guid>
+      <guid>https://ifti.space/posts/2020/01/welcome-to-my-new-blog/</guid>
       <description>This is my new blog I have finally decided to expand my website. From 2020 I am starting this new blog. Come back again soon for updates. Thanks!</description>
     </item>
     

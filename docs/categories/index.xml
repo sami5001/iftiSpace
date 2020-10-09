@@ -5,10 +5,6 @@
     <link>https://ifti.space/categories/</link>
     <description>Recent content in Categories on Hassan Saad Ifti</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://ifti.space/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://ifti.space/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -16,6 +16,8 @@ tags:
 
 {{< image src="images/ifti-talking-point.jpg" alt="Hassan Saad Ifti The Talking Point" position="left" style="border-radius:8px; float:left;">}}
 
+![Hassan Saad Ifti The Talking Point](images/ifti-talking-point.jpg)
+
 This was my first time being LIVE on tv. Thanks to Prof Ahmed for the invitation and Alam Uncle for arranging it. I'm by no means anyone of that stature. I've really received unprecedented respect from the Bengali community in the UK.
 
 I took this opportunity to talk about the importance of girls in STEM.
